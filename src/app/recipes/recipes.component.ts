@@ -5,8 +5,6 @@ import { Component } from "@angular/core";
   templateUrl: "./recipes.component.html"
 })
 export class RecipesComponent {
-  recipes = [];
-
   constructor() {}
 
   ngOnInit() {}
